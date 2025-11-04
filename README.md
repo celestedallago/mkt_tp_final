@@ -80,6 +80,29 @@ Series temporales (Ventas, Usuarios Activos, Ranking)|
 
 ---
 
+## Esquema estrella
+**1. Fact_Sales**
+
+![Diagrama de Esquema Estrella para Fact_Sales](assets/Fact_Sales.png)
+
+**2. Fact_NPS**
+
+![Diagrama de Esquema Estrella para Fact_NPS](assets/Fact_NPS.png)
+
+**3. Fact_web_sessions**
+
+![Diagrama de Esquema Estrella para Fact_Web_Session](assets/Fact_Web_Session.png)
+
+**4. Fact_shipment**
+
+![Diagrama de Esquema Estrella para Fact_Shipment](assets/Fact_Shipment.png)
+
+**5. Fact_payment**
+
+![Diagrama de Esquema Estrella para Fact_Payment](assets/Fact_Payment.png)
+
+---
+
 ## Dashboard y Criterios de Evaluación
 El tablero, que se desarrollará en Looker Studio, debe incluir los filtros de Fecha, Canal, Provincia y Producto  y las siguientes vistas mínimas:
 
