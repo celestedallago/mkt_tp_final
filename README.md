@@ -93,6 +93,6 @@ Total Ventas ($M) | SUM(total_amount_order)	| fact_sales (filtrando status = PAI
 
 ---
 
-## Dascboard Final 
+## Dashboard Final 
 
 
