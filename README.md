@@ -99,8 +99,7 @@ Series temporales (Ventas, Usuarios Activos, Ranking)|
 
 **5. Fact_payment**
 
-![Diagrama de Esquema Estrella para Fact_Payment](assets/fact_pas
-yment.png)
+![Diagrama de Esquema Estrella para Fact_Payment](assets/fact_pasyment.png)
 
 ---
 
