@@ -118,5 +118,8 @@ Total Ventas ($M) | SUM(total_amount_order)	| fact_sales (filtrando status = PAI
 ---
 
 ## Dashboard Final 
+![Imagen del dashboard](assets/dashboard.png)
+
+Link del Dashboard: https://app.powerbi.com/links/3o3VT7bP9g?ctid=3e0513d6-68fa-416e-8de1-6c5cdc319ffa&pbi_source=linkShare
 
 
